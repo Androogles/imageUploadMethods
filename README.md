@@ -7,6 +7,7 @@ We will also use path and fs (both core node modules) to define diffrent directo
 ### Dependencies
 * [express-fileupload](https://www.npmjs.com/package/express-fileupload)
 * [gm](https://www.npmjs.com/package/gm) 
+* [uuid](https://www.npmjs.com/package/uuid) 
 
 ### System requirements
 ImageMagick must be installed locally on your system n[imageMagick for windows!](https://www.imagemagick.org/script/download.php#windows) 
